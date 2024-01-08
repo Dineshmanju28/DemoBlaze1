@@ -57,7 +57,8 @@ public class LaptopTest extends Baseclass {
 
 	//ok
 	//poda
-		
+	//P****	
+	
 	report.endTest(test);
 	report.flush();
 	
