@@ -56,7 +56,8 @@ public class LaptopTest extends Baseclass {
 	test.log(LogStatus.PASS, "Sony vaio i5 Laptop is Purchased");
 
 	//ok
-	
+	//poda
+		
 	report.endTest(test);
 	report.flush();
 	
