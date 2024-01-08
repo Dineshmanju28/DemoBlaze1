@@ -55,7 +55,7 @@ public class LaptopTest extends Baseclass {
 	homePage.getOKButton().click();
 	test.log(LogStatus.PASS, "Sony vaio i5 Laptop is Purchased");
 
-	
+	hi
 	
 	report.endTest(test);
 	report.flush();
