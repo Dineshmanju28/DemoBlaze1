@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[connect to database]]>
+    </line>
+    <line>
+      <![CDATA[Before test]]>
+    </line>
+    <line>
+      <![CDATA[Before class]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Sony vaio i5 Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[After class]]>
+    </line>
+    <line>
+      <![CDATA[After test]]>
+    </line>
+    <line>
+      <![CDATA[close connection to database]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-05T18:35:02 IST" name="Default suite" finished-at="2024-03-05T18:35:48 IST" duration-ms="46631">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T18:35:02 IST" name="Default test" finished-at="2024-03-05T18:35:48 IST" duration-ms="46631">
+      <class name="testScripts.LaptopTest">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:01 IST" name="beforesuit" finished-at="2024-03-05T18:35:02 IST" duration-ms="702" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[connect to database]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:02 IST" name="beforetest" finished-at="2024-03-05T18:35:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:02 IST" name="beforeclass" finished-at="2024-03-05T18:35:14 IST" duration-ms="12139" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:14 IST" name="beforemethod" finished-at="2024-03-05T18:35:14 IST" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.Sonyvaioi5() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Sonyvaioi5()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:14 IST" name="Sonyvaioi5" finished-at="2024-03-05T18:35:48 IST" duration-ms="34236" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sony vaio i5 Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sonyvaioi5 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="aftermethod" finished-at="2024-03-05T18:35:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="afterclass" finished-at="2024-03-05T18:35:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="aftertest" finished-at="2024-03-05T18:35:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftresuit()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:49 IST" name="aftresuit" finished-at="2024-03-05T18:35:50 IST" duration-ms="1392" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[close connection to database]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftresuit -->
+      </class> <!-- testScripts.LaptopTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
