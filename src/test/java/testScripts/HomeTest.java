@@ -51,7 +51,6 @@ public class HomeTest extends Baseclass {
 
 		homePage.getLoginLink().click();
 		test.log(LogStatus.INFO, "Login Link is clicked");
-
 		Thread.sleep(2000);
 		homePage.getLoginUsernameTextField().sendKeys(fileUtility.getproperty("loginusername"));
 		homePage.getLoginpasswordTextField().sendKeys(fileUtility.getproperty("loginpassword"));

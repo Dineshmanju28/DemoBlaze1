@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="27" passed="24" failed="3" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[connect to database]]>
@@ -14,7 +14,250 @@
       <![CDATA[Login]]>
     </line>
     <line>
-      <![CDATA[Sony vaio i5 Laptop is Purchased]]>
+      <![CDATA[Dell 15.6 Inch Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Dell i7 8gb Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[MacBook Pro Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[MacBook air Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Sony vaio i7 Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[After class]]>
+    </line>
+    <line>
+      <![CDATA[Before class]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[ASUS Full HD is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Apple Monitor24 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Dell 15.6 Inch Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Dell i7 8gb Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[MacBook Pro Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[MacBook air Laptop is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Nexus6 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Nokia lumia 1520 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Samsung galaxys6 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Samsung galaxys7 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Sony vaio i5 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Sony vaio i7 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Sony xperia z5 is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[After class]]>
+    </line>
+    <line>
+      <![CDATA[Before class]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Contact Message is successfully sent ]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Advertisement is played successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Signup is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[After class]]>
+    </line>
+    <line>
+      <![CDATA[Before class]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[ASUS Full HD is Purchased]]>
+    </line>
+    <line>
+      <![CDATA[Logout]]>
+    </line>
+    <line>
+      <![CDATA[Login]]>
+    </line>
+    <line>
+      <![CDATA[Apple Monitor24 is Purchased]]>
     </line>
     <line>
       <![CDATA[Logout]]>
@@ -29,33 +272,149 @@
       <![CDATA[close connection to database]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-03-05T18:35:02 IST" name="Default suite" finished-at="2024-03-05T18:35:48 IST" duration-ms="46631">
+  <suite started-at="2024-04-24T12:35:53 IST" name="Suite" finished-at="2024-04-24T12:43:54 IST" duration-ms="481161">
     <groups>
+      <group name="smoke">
+        <method signature="HomeTest.Login()[pri:0, instance:testScripts.HomeTest@1349883]" name="Login" class="testScripts.HomeTest"/>
+        <method signature="MonitorTest.Applemonitor24()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" name="Applemonitor24" class="testScripts.MonitorTest"/>
+      </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-03-05T18:35:02 IST" name="Default test" finished-at="2024-03-05T18:35:48 IST" duration-ms="46631">
+    <test started-at="2024-04-24T12:35:53 IST" name="Test" finished-at="2024-04-24T12:43:54 IST" duration-ms="481161">
       <class name="testScripts.LaptopTest">
-        <test-method is-config="true" signature="beforesuit()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:01 IST" name="beforesuit" finished-at="2024-03-05T18:35:02 IST" duration-ms="702" status="PASS">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:35:52 IST" name="beforesuit" finished-at="2024-04-24T12:35:53 IST" duration-ms="1204" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[connect to database]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforesuit -->
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:02 IST" name="beforetest" finished-at="2024-03-05T18:35:02 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:35:53 IST" name="beforetest" finished-at="2024-04-24T12:35:53 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Before test]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:02 IST" name="beforeclass" finished-at="2024-03-05T18:35:14 IST" duration-ms="12139" status="PASS">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:35:53 IST" name="beforeclass" finished-at="2024-04-24T12:36:32 IST" duration-ms="38923" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Before class]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:14 IST" name="beforemethod" finished-at="2024-03-05T18:35:14 IST" duration-ms="33" status="PASS">
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:36:32 IST" name="beforemethod" finished-at="2024-04-24T12:36:32 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.Dell156InchLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Dell156InchLaptop()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:36:32 IST" name="Dell156InchLaptop" finished-at="2024-04-24T12:37:05 IST" duration-ms="32203" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dell 15.6 Inch Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Dell156InchLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:05 IST" name="aftermethod" finished-at="2024-04-24T12:37:05 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:05 IST" name="beforemethod" finished-at="2024-04-24T12:37:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.Delli78gbLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Delli78gbLaptop()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:05 IST" name="Delli78gbLaptop" finished-at="2024-04-24T12:37:25 IST" duration-ms="19831" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dell i7 8gb Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Delli78gbLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:25 IST" name="aftermethod" finished-at="2024-04-24T12:37:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:25 IST" name="beforemethod" finished-at="2024-04-24T12:37:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.MacBookProLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MacBookProLaptop()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:25 IST" name="MacBookProLaptop" finished-at="2024-04-24T12:37:42 IST" duration-ms="17233" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MacBook Pro Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MacBookProLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:42 IST" name="aftermethod" finished-at="2024-04-24T12:37:42 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:42 IST" name="beforemethod" finished-at="2024-04-24T12:37:42 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.MacBookairLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MacBookairLaptop()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:42 IST" name="MacBookairLaptop" finished-at="2024-04-24T12:37:58 IST" duration-ms="16071" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MacBook air Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MacBookairLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:58 IST" name="aftermethod" finished-at="2024-04-24T12:37:58 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:58 IST" name="beforemethod" finished-at="2024-04-24T12:37:58 IST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -69,35 +428,135 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method signature="Sonyvaioi5()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:14 IST" name="Sonyvaioi5" finished-at="2024-03-05T18:35:48 IST" duration-ms="34236" status="PASS">
+        <test-method signature="Sonyvaioi5()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:58 IST" name="Sonyvaioi5" finished-at="2024-04-24T12:37:59 IST" duration-ms="1016" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84723e24149ddb07efc46a8dbdb1cab5, clickElement {id=f.365DB516A8B13F6BCA9223CC63891E09.d.BB46D956E54FAA55DAE9DB0368E42B35.e.838}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60334}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60334/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84723e24149ddb07efc46a8dbdb1cab5)] -> xpath: //a[.='Sony vaio i5']]
+Session ID: 84723e24149ddb07efc46a8dbdb1cab5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84723e24149ddb07efc46a8dbdb1cab5, clickElement {id=f.365DB516A8B13F6BCA9223CC63891E09.d.BB46D956E54FAA55DAE9DB0368E42B35.e.838}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60334}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60334/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84723e24149ddb07efc46a8dbdb1cab5)] -> xpath: //a[.='Sony vaio i5']]
+Session ID: 84723e24149ddb07efc46a8dbdb1cab5
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at testScripts.LaptopTest.Sonyvaioi5(LaptopTest.java:36)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
-            <line>
-              <![CDATA[Sony vaio i5 Laptop is Purchased]]>
-            </line>
           </reporter-output>
         </test-method> <!-- Sonyvaioi5 -->
-        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="aftermethod" finished-at="2024-03-05T18:35:48 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:59 IST" name="aftermethod" finished-at="2024-04-24T12:37:59 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- aftermethod -->
-        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="afterclass" finished-at="2024-03-05T18:35:48 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:59 IST" name="beforemethod" finished-at="2024-04-24T12:37:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.LaptopTest.Sonyvaioi7() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Sonyvaioi7()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:37:59 IST" name="Sonyvaioi7" finished-at="2024-04-24T12:38:15 IST" duration-ms="15765" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sony vaio i7 Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sonyvaioi7 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:38:15 IST" name="aftermethod" finished-at="2024-04-24T12:38:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:38:15 IST" name="afterclass" finished-at="2024-04-24T12:38:15 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[After class]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterclass -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:48 IST" name="aftertest" finished-at="2024-03-05T18:35:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:43:54 IST" name="aftertest" finished-at="2024-04-24T12:43:54 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[After test]]>
             </line>
           </reporter-output>
         </test-method> <!-- aftertest -->
-        <test-method is-config="true" signature="aftresuit()[pri:0, instance:testScripts.LaptopTest@663c9e7a]" started-at="2024-03-05T18:35:49 IST" name="aftresuit" finished-at="2024-03-05T18:35:50 IST" duration-ms="1392" status="PASS">
+        <test-method is-config="true" signature="aftresuit()[pri:0, instance:testScripts.LaptopTest@742ff096]" started-at="2024-04-24T12:43:55 IST" name="aftresuit" finished-at="2024-04-24T12:43:58 IST" duration-ms="3241" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[close connection to database]]>
@@ -105,6 +564,786 @@
           </reporter-output>
         </test-method> <!-- aftresuit -->
       </class> <!-- testScripts.LaptopTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="testScripts.HomeTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:41:53 IST" name="beforeclass" finished-at="2024-04-24T12:42:13 IST" duration-ms="20003" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:13 IST" name="beforemethod" finished-at="2024-04-24T12:42:13 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.HomeTest.ContactMessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="ContactMessage()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:13 IST" name="ContactMessage" finished-at="2024-04-24T12:42:21 IST" duration-ms="7901" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Contact Message is successfully sent ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ContactMessage -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:21 IST" name="aftermethod" finished-at="2024-04-24T12:42:21 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:21 IST" name="beforemethod" finished-at="2024-04-24T12:42:21 IST" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.HomeTest.Login() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Login()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:21 IST" name="Login" finished-at="2024-04-24T12:42:32 IST" duration-ms="10559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login is successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:32 IST" name="aftermethod" finished-at="2024-04-24T12:42:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:32 IST" name="beforemethod" finished-at="2024-04-24T12:42:32 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.HomeTest.PlayAdd() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="PlayAdd()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:32 IST" name="PlayAdd" finished-at="2024-04-24T12:42:54 IST" duration-ms="22170" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Advertisement is played successfully ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PlayAdd -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:54 IST" name="aftermethod" finished-at="2024-04-24T12:42:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:54 IST" name="beforemethod" finished-at="2024-04-24T12:42:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.HomeTest.Signup() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Signup()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:42:54 IST" name="Signup" finished-at="2024-04-24T12:43:01 IST" duration-ms="7066" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Signup is successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:43:01 IST" name="aftermethod" finished-at="2024-04-24T12:43:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.HomeTest@1349883]" started-at="2024-04-24T12:43:01 IST" name="afterclass" finished-at="2024-04-24T12:43:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testScripts.HomeTest -->
+      <class name="testScripts.MobileTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:15 IST" name="beforeclass" finished-at="2024-04-24T12:38:27 IST" duration-ms="12358" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:27 IST" name="beforemethod" finished-at="2024-04-24T12:38:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.ASUSFullHD() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="ASUSFullHD()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:27 IST" name="ASUSFullHD" finished-at="2024-04-24T12:38:43 IST" duration-ms="15625" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ASUS Full HD is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ASUSFullHD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:43 IST" name="aftermethod" finished-at="2024-04-24T12:38:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:43 IST" name="beforemethod" finished-at="2024-04-24T12:38:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Applemonitor24() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Applemonitor24()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:38:43 IST" name="Applemonitor24" finished-at="2024-04-24T12:39:01 IST" duration-ms="17883" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Apple Monitor24 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Applemonitor24 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:01 IST" name="aftermethod" finished-at="2024-04-24T12:39:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:01 IST" name="beforemethod" finished-at="2024-04-24T12:39:01 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Dell156InchLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Dell156InchLaptop()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:01 IST" name="Dell156InchLaptop" finished-at="2024-04-24T12:39:16 IST" duration-ms="15685" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dell 15.6 Inch Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Dell156InchLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:16 IST" name="aftermethod" finished-at="2024-04-24T12:39:16 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:16 IST" name="beforemethod" finished-at="2024-04-24T12:39:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Delli78gbLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Delli78gbLaptop()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:16 IST" name="Delli78gbLaptop" finished-at="2024-04-24T12:39:35 IST" duration-ms="18261" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dell i7 8gb Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Delli78gbLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:35 IST" name="aftermethod" finished-at="2024-04-24T12:39:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:35 IST" name="beforemethod" finished-at="2024-04-24T12:39:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.HTCOneM9() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="HTCOneM9()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:35 IST" name="HTCOneM9" finished-at="2024-04-24T12:39:36 IST" duration-ms="1223" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.783}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -> xpath: //a[.='HTC One M9']]
+Session ID: df3e880071d49fb86b0536f9e5b0305f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.783}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -> xpath: //a[.='HTC One M9']]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at testScripts.MobileTest.HTCOneM9(MobileTest.java:224)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HTCOneM9 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:36 IST" name="aftermethod" finished-at="2024-04-24T12:39:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:36 IST" name="beforemethod" finished-at="2024-04-24T12:39:36 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Iphone632gb6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Iphone632gb6()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:36 IST" name="Iphone632gb6" finished-at="2024-04-24T12:39:37 IST" duration-ms="849" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.786}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -> xpath: //a[.='Iphone 6 32gb']]
+Session ID: df3e880071d49fb86b0536f9e5b0305f]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.786}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -> xpath: //a[.='Iphone 6 32gb']]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at testScripts.MobileTest.Iphone632gb6(MobileTest.java:160)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iphone632gb6 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:37 IST" name="aftermethod" finished-at="2024-04-24T12:39:37 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:37 IST" name="beforemethod" finished-at="2024-04-24T12:39:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.MacBookProLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MacBookProLaptop()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:37 IST" name="MacBookProLaptop" finished-at="2024-04-24T12:39:51 IST" duration-ms="14401" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MacBook Pro Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MacBookProLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:51 IST" name="aftermethod" finished-at="2024-04-24T12:39:51 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:51 IST" name="beforemethod" finished-at="2024-04-24T12:39:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.MacBookairLaptop() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MacBookairLaptop()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:39:51 IST" name="MacBookairLaptop" finished-at="2024-04-24T12:40:08 IST" duration-ms="17246" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MacBook air Laptop is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- MacBookairLaptop -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:08 IST" name="aftermethod" finished-at="2024-04-24T12:40:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:08 IST" name="beforemethod" finished-at="2024-04-24T12:40:08 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Nexus6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Nexus6()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:08 IST" name="Nexus6" finished-at="2024-04-24T12:40:24 IST" duration-ms="15210" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Nexus6 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nexus6 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:24 IST" name="aftermethod" finished-at="2024-04-24T12:40:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:24 IST" name="beforemethod" finished-at="2024-04-24T12:40:24 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Nokialumia1520() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Nokialumia1520()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:24 IST" name="Nokialumia1520" finished-at="2024-04-24T12:40:38 IST" duration-ms="14326" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Nokia lumia 1520 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nokialumia1520 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:38 IST" name="aftermethod" finished-at="2024-04-24T12:40:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:38 IST" name="beforemethod" finished-at="2024-04-24T12:40:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Samsunggalaxys6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Samsunggalaxys6()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:38 IST" name="Samsunggalaxys6" finished-at="2024-04-24T12:40:53 IST" duration-ms="14774" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Samsung galaxys6 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Samsunggalaxys6 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:53 IST" name="aftermethod" finished-at="2024-04-24T12:40:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:53 IST" name="beforemethod" finished-at="2024-04-24T12:40:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Samsunggalaxys7() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Samsunggalaxys7()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:40:53 IST" name="Samsunggalaxys7" finished-at="2024-04-24T12:41:08 IST" duration-ms="14744" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Samsung galaxys7 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Samsunggalaxys7 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:08 IST" name="aftermethod" finished-at="2024-04-24T12:41:08 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:08 IST" name="beforemethod" finished-at="2024-04-24T12:41:08 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Sonyvaioi5() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Sonyvaioi5()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:08 IST" name="Sonyvaioi5" finished-at="2024-04-24T12:41:22 IST" duration-ms="14778" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sony vaio i5 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sonyvaioi5 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:22 IST" name="aftermethod" finished-at="2024-04-24T12:41:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="Sonyvaioi7()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:22 IST" name="Sonyvaioi7" finished-at="2024-04-24T12:41:37 IST" duration-ms="14403" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sony vaio i7 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sonyvaioi7 -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:22 IST" name="beforemethod" finished-at="2024-04-24T12:41:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Sonyvaioi7() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:37 IST" name="aftermethod" finished-at="2024-04-24T12:41:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:37 IST" name="beforemethod" finished-at="2024-04-24T12:41:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MobileTest.Sonyxperiaz5() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Sonyxperiaz5()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:37 IST" name="Sonyxperiaz5" finished-at="2024-04-24T12:41:53 IST" duration-ms="16307" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sony xperia z5 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Sonyxperiaz5 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:53 IST" name="aftermethod" finished-at="2024-04-24T12:41:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.MobileTest@4a83a74a]" started-at="2024-04-24T12:41:53 IST" name="afterclass" finished-at="2024-04-24T12:41:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testScripts.MobileTest -->
+      <class name="testScripts.MonitorTest">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:01 IST" name="beforeclass" finished-at="2024-04-24T12:43:13 IST" duration-ms="11764" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:13 IST" name="beforemethod" finished-at="2024-04-24T12:43:13 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MonitorTest.ASUSFullHD() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="ASUSFullHD()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:13 IST" name="ASUSFullHD" finished-at="2024-04-24T12:43:38 IST" duration-ms="25535" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ASUS Full HD is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ASUSFullHD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:38 IST" name="aftermethod" finished-at="2024-04-24T12:43:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod(java.lang.reflect.Method)[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:38 IST" name="beforemethod" finished-at="2024-04-24T12:43:38 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testScripts.MonitorTest.Applemonitor24() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Applemonitor24()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:38 IST" name="Applemonitor24" finished-at="2024-04-24T12:43:54 IST" duration-ms="15902" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Apple Monitor24 is Purchased]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Applemonitor24 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:54 IST" name="aftermethod" finished-at="2024-04-24T12:43:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testScripts.MonitorTest@4b29d1d2]" started-at="2024-04-24T12:43:54 IST" name="afterclass" finished-at="2024-04-24T12:43:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- testScripts.MonitorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

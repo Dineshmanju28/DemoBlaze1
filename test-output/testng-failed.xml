@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
     <classes>
       <class name="testScripts.LaptopTest">
         <methods>
           <include name="aftertest"/>
-          <include name="Dell156InchLaptop"/>
-          <include name="MacBookProLaptop"/>
           <include name="beforetest"/>
           <include name="Sonyvaioi5"/>
           <include name="beforeclass"/>
+          <include name="beforesuit"/>
           <include name="beforemethod"/>
           <include name="aftermethod"/>
           <include name="aftresuit"/>
-          <include name="Sonyvaioi7"/>
-          <include name="Delli78gbLaptop"/>
-          <include name="beforesuit"/>
-          <include name="MacBookairLaptop"/>
           <include name="afterclass"/>
         </methods>
       </class> <!-- testScripts.LaptopTest -->
+      <class name="testScripts.MobileTest">
+        <methods>
+          <include name="aftertest"/>
+          <include name="Iphone632gb6"/>
+          <include name="beforetest"/>
+          <include name="beforeclass"/>
+          <include name="HTCOneM9"/>
+          <include name="beforesuit"/>
+          <include name="beforemethod"/>
+          <include name="aftresuit"/>
+          <include name="afterclass"/>
+          <include name="aftermethod"/>
+        </methods>
+      </class> <!-- testScripts.MobileTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

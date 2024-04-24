@@ -6,19 +6,14 @@
       <class name="testScripts.LaptopTest">
         <methods>
           <include name="aftertest"/>
-          <include name="Dell156InchLaptop"/>
-          <include name="MacBookProLaptop"/>
           <include name="beforetest"/>
           <include name="Sonyvaioi5"/>
           <include name="beforeclass"/>
+          <include name="beforesuit"/>
           <include name="beforemethod"/>
           <include name="aftermethod"/>
-          <include name="aftresuit"/>
-          <include name="Sonyvaioi7"/>
-          <include name="Delli78gbLaptop"/>
-          <include name="beforesuit"/>
-          <include name="MacBookairLaptop"/>
           <include name="afterclass"/>
+          <include name="aftresuit"/>
         </methods>
       </class> <!-- testScripts.LaptopTest -->
     </classes>
