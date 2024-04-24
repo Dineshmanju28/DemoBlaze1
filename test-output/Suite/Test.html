@@ -55,13 +55,13 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/2/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>24/3/0</td>
 </tr><tr>
-<td>Started on:</td><td>Wed Feb 28 16:40:28 IST 2024</td>
+<td>Started on:</td><td>Wed Apr 24 12:35:53 IST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>0 seconds (920 ms)</td>
+<tr><td>Total time:</td><td>481 seconds (481161 ms)</td>
 </tr><tr>
-<td>Included groups:</td><td>smoke </td>
+<td>Included groups:</td><td></td>
 </tr><tr>
 <td>Excluded groups:</td><td></td>
 </tr>
@@ -76,19 +76,61 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testScripts.HomeTest.Login()'><b>Login</b><br>Test class: testScripts.HomeTest</td>
-<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)&quot; because &quot;this.searchContext&quot; is null
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<td title='testScripts.MobileTest.HTCOneM9()'><b>HTCOneM9</b><br>Test class: testScripts.MobileTest</td>
+<td><div><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.783}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -&gt; xpath: //a[.=&apos;HTC One M9&apos;]]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
-	at testScripts.HomeTest.Login(HomeTest.java:52)
+	at testScripts.MobileTest.HTCOneM9(MobileTest.java:224)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1275143523", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1275143523'><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)&quot; because &quot;this.searchContext&quot; is null
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2051397396", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2051397396'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.783}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -&gt; xpath: //a[.=&apos;HTC One M9&apos;]]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
-	at testScripts.HomeTest.Login(HomeTest.java:52)
+	at testScripts.MobileTest.HTCOneM9(MobileTest.java:224)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -118,22 +160,64 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>0</td>
-<td>testScripts.HomeTest@74e28667</td></tr>
+<td>1</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
 <tr>
-<td title='testScripts.MonitorTest.Applemonitor24()'><b>Applemonitor24</b><br>Test class: testScripts.MonitorTest</td>
-<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)&quot; because &quot;this.searchContext&quot; is null
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+<td title='testScripts.MobileTest.Iphone632gb6()'><b>Iphone632gb6</b><br>Test class: testScripts.MobileTest</td>
+<td><div><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.786}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -&gt; xpath: //a[.=&apos;Iphone 6 32gb&apos;]]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
-	at testScripts.MonitorTest.Applemonitor24(MonitorTest.java:24)
+	at testScripts.MobileTest.Iphone632gb6(MobileTest.java:160)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace330551672", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace330551672'><pre>java.lang.NullPointerException: Cannot invoke &quot;org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)&quot; because &quot;this.searchContext&quot; is null
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2113919627", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2113919627'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3e880071d49fb86b0536f9e5b0305f, clickElement {id=f.FB6C7BE95B32C12A1BC61D90389D725A.d.E46A3160810EC9B63349D5D8E9CB13AD.e.786}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60414}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60414/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3e880071d49fb86b0536f9e5b0305f)] -&gt; xpath: //a[.=&apos;Iphone 6 32gb&apos;]]
+Session ID: df3e880071d49fb86b0536f9e5b0305f
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
 	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
-	at testScripts.MonitorTest.Applemonitor24(MonitorTest.java:24)
+	at testScripts.MobileTest.Iphone632gb6(MobileTest.java:160)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -164,7 +248,391 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
 <td>0</td>
-<td>testScripts.MonitorTest@1cf6d1be</td></tr>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.Sonyvaioi5()'><b>Sonyvaioi5</b><br>Test class: testScripts.LaptopTest</td>
+<td><div><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84723e24149ddb07efc46a8dbdb1cab5, clickElement {id=f.365DB516A8B13F6BCA9223CC63891E09.d.BB46D956E54FAA55DAE9DB0368E42B35.e.838}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60334}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60334/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84723e24149ddb07efc46a8dbdb1cab5)] -&gt; xpath: //a[.=&apos;Sony vaio i5&apos;]]
+Session ID: 84723e24149ddb07efc46a8dbdb1cab5
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+	at testScripts.LaptopTest.Sonyvaioi5(LaptopTest.java:36)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 35 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace571928572", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace571928572'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=124.0.6367.61)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.6&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84723e24149ddb07efc46a8dbdb1cab5, clickElement {id=f.365DB516A8B13F6BCA9223CC63891E09.d.BB46D956E54FAA55DAE9DB0368E42B35.e.838}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.61, chrome: {chromedriverVersion: 124.0.6367.78 (a087f2dd364d..., userDataDir: C:\Windows\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60334}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60334/devtoo..., se:cdpVersion: 124.0.6367.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (84723e24149ddb07efc46a8dbdb1cab5)] -&gt; xpath: //a[.=&apos;Sony vaio i5&apos;]]
+Session ID: 84723e24149ddb07efc46a8dbdb1cab5
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+	at testScripts.LaptopTest.Sonyvaioi5(LaptopTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+	at org.testng.TestNG.runSuites(TestNG.java:1114)
+	at org.testng.TestNG.run(TestNG.java:1082)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>1</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testScripts.HomeTest.Login()'><b>Login</b><br>Test class: testScripts.HomeTest<br/>
+<a href="#Output-704948997" onClick='toggleBox("Output-704948997", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-704948997" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-704948997">
+Login is successfully done<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>testScripts.HomeTest@1349883</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.Delli78gbLaptop()'><b>Delli78gbLaptop</b><br>Test class: testScripts.LaptopTest<br/>
+<a href="#Output-767393855" onClick='toggleBox("Output-767393855", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-767393855" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-767393855">
+Dell i7 8gb Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Sonyvaioi5()'><b>Sonyvaioi5</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-410033330" onClick='toggleBox("Output-410033330", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-410033330" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-410033330">
+Sony vaio i5 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.Dell156InchLaptop()'><b>Dell156InchLaptop</b><br>Test class: testScripts.LaptopTest<br/>
+<a href="#Output-1913017282" onClick='toggleBox("Output-1913017282", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1913017282" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1913017282">
+Dell 15.6 Inch Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>32</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.MacBookProLaptop()'><b>MacBookProLaptop</b><br>Test class: testScripts.LaptopTest<br/>
+<a href="#Output-732118572" onClick='toggleBox("Output-732118572", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-732118572" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-732118572">
+MacBook Pro Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+<tr>
+<td title='testScripts.HomeTest.PlayAdd()'><b>PlayAdd</b><br>Test class: testScripts.HomeTest<br/>
+<a href="#Output-387410712" onClick='toggleBox("Output-387410712", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-387410712" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-387410712">
+Advertisement is played successfully <br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>testScripts.HomeTest@1349883</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Applemonitor24()'><b>Applemonitor24</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-1028538462" onClick='toggleBox("Output-1028538462", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1028538462" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1028538462">
+Apple Monitor24 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Delli78gbLaptop()'><b>Delli78gbLaptop</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-847841178" onClick='toggleBox("Output-847841178", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-847841178" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-847841178">
+Dell i7 8gb Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.ASUSFullHD()'><b>ASUSFullHD</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-810353241" onClick='toggleBox("Output-810353241", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-810353241" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-810353241">
+ASUS Full HD is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Samsunggalaxys7()'><b>Samsunggalaxys7</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-1563766240" onClick='toggleBox("Output-1563766240", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1563766240" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1563766240">
+Samsung galaxys7 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.HomeTest.Signup()'><b>Signup</b><br>Test class: testScripts.HomeTest<br/>
+<a href="#Output-1712003741" onClick='toggleBox("Output-1712003741", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1712003741" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1712003741">
+Signup is successfully done<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>testScripts.HomeTest@1349883</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.MacBookairLaptop()'><b>MacBookairLaptop</b><br>Test class: testScripts.LaptopTest<br/>
+<a href="#Output-1299885218" onClick='toggleBox("Output-1299885218", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1299885218" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1299885218">
+MacBook air Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+<tr>
+<td title='testScripts.HomeTest.ContactMessage()'><b>ContactMessage</b><br>Test class: testScripts.HomeTest<br/>
+<a href="#Output-109767760" onClick='toggleBox("Output-109767760", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-109767760" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-109767760">
+Contact Message is successfully sent <br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>testScripts.HomeTest@1349883</td></tr>
+<tr>
+<td title='testScripts.LaptopTest.Sonyvaioi7()'><b>Sonyvaioi7</b><br>Test class: testScripts.LaptopTest<br/>
+<a href="#Output-1066949254" onClick='toggleBox("Output-1066949254", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1066949254" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1066949254">
+Sony vaio i7 Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testScripts.LaptopTest@742ff096</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Samsunggalaxys6()'><b>Samsunggalaxys6</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-1885991030" onClick='toggleBox("Output-1885991030", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1885991030" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1885991030">
+Samsung galaxys6 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MonitorTest.ASUSFullHD()'><b>ASUSFullHD</b><br>Test class: testScripts.MonitorTest<br/>
+<a href="#Output-600296216" onClick='toggleBox("Output-600296216", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-600296216" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-600296216">
+ASUS Full HD is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>25</td>
+<td>testScripts.MonitorTest@4b29d1d2</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Sonyvaioi7()'><b>Sonyvaioi7</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-871115788" onClick='toggleBox("Output-871115788", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-871115788" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-871115788">
+Sony vaio i7 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Nokialumia1520()'><b>Nokialumia1520</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-906397479" onClick='toggleBox("Output-906397479", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-906397479" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-906397479">
+Nokia lumia 1520 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MonitorTest.Applemonitor24()'><b>Applemonitor24</b><br>Test class: testScripts.MonitorTest<br/>
+<a href="#Output-1729992636" onClick='toggleBox("Output-1729992636", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1729992636" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1729992636">
+Apple Monitor24 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testScripts.MonitorTest@4b29d1d2</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Sonyxperiaz5()'><b>Sonyxperiaz5</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-54440148" onClick='toggleBox("Output-54440148", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-54440148" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-54440148">
+Sony xperia z5 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Dell156InchLaptop()'><b>Dell156InchLaptop</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-1127174687" onClick='toggleBox("Output-1127174687", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1127174687" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1127174687">
+Dell 15.6 Inch Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.MacBookProLaptop()'><b>MacBookProLaptop</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-2096598149" onClick='toggleBox("Output-2096598149", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2096598149" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2096598149">
+MacBook Pro Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.Nexus6()'><b>Nexus6</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-179455108" onClick='toggleBox("Output-179455108", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-179455108" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-179455108">
+Nexus6 is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
+<tr>
+<td title='testScripts.MobileTest.MacBookairLaptop()'><b>MacBookairLaptop</b><br>Test class: testScripts.MobileTest<br/>
+<a href="#Output-1645557354" onClick='toggleBox("Output-1645557354", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1645557354" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1645557354">
+MacBook air Laptop is Purchased<br/>
+</div>
+</td>
+<td></td>
+<td>17</td>
+<td>testScripts.MobileTest@4a83a74a</td></tr>
 </table><p>
 </body>
 </html>
